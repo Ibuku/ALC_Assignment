@@ -1,0 +1,21 @@
+.primary{
+  border:1px solid black;
+  width: 100%;
+  background:black;
+  border-radius: 2px;
+}
+a{
+  color: rgb(187, 179, 179);
+  font: bold;
+}
+.image{
+  height:500px;
+}
+.center{
+  text-align:center;
+}
+.btn{
+  border:1px solid gray;
+  width: 100%;
+  background:gray;
+  }
